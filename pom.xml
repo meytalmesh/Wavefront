@@ -57,7 +57,7 @@
     <jetty.version>9.4.14.v20181114</jetty.version>
     <jackson.version>2.10.0.pr1</jackson.version>
     <netty.version>4.1.25.Final</netty.version>
-    <public.project.version>4.37-SNAPSHOT</public.project.version>
+    <public.project.version>2023-02.1</public.project.version>
   </properties>
 
   <build>
